@@ -39,3 +39,8 @@ $br : 10px;
 
 $path-img	: '../img';
 $path-font  : '../fonts';
+
+// Media query break points
+
+$break-narrow	: '(max-width: 768px)';
+$break-wide		: '(max-width: 1024px)';
